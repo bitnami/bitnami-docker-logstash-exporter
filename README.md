@@ -2,7 +2,7 @@
 
 > Prometheus exporter for the metrics available in Logstash
 
-[https://github.com/BonnierNews/logstash_exporter](https://github.com/BonnierNews/logstash_exporter)
+[https://github.com/sequra/logstash_exporter](https://github.com/sequra/logstash_exporter)
 
 # TL;DR;
 
